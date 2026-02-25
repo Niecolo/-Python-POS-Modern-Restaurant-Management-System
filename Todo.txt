@@ -1,0 +1,5 @@
+let the currency symbol on the settings tab be used all over the program, the prices of the items, order price, payments and reports that is
+the currency symbol is not updated on POS tab (Total) and item price,orders tab,payments tab,products tab,reports tab. and even the exported excel file
+
+C:\Users\Administrator\Desktop\tanstac-pos-master\image\icon.ico use this icon for the application logo and internal icon tk image. Rename also the application as POS System
+create a batch file for this application to be made as a distributable and can run on any computer without installation
